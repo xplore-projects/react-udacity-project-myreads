@@ -1,0 +1,14 @@
+{
+  "folders": [
+	{
+		"path": "/Users/learningx2/Documents/Udacity/React/Projects/reactnd-project-myreads-array"
+	}
+],
+  "settings": {
+    "workbench.colorCustomizations": {
+      "activityBar.background": "#553955",
+      "titleBar.activeBackground": "#553955",
+      "titleBar.activeForeground": "#F6FBFB"
+    }
+  }
+}
